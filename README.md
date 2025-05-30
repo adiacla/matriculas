@@ -127,14 +127,14 @@ Se imprime la deteccion del OCR en el frame, que en conjunto con las demas etiqu
 
 <p align="center">
   <video width="480" height="300" controls>
-    <source src="video/descarga.mp4" type="descarga/mp4">
+    <source src="videos/descarga.mp4" type="descarga/mp4">
     Video original
   </video>
 </p>
 
 <p align="center">
   <video width="480" height="300" controls>
-    <source src="video/desacarga2.mp4" type="descarga/mp4">
+    <source src="videos/desacarga2.mp4" type="descarga/mp4">
     Video etiquetado
   </video>
 </p>
