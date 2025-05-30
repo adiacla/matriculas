@@ -126,10 +126,11 @@ Se imprime la deteccion del OCR en el frame, que en conjunto con las demas etiqu
 
 Se procesa con video
 
+
 <p align="center">
   <video width="480" height="300" controls>
-    <source src="videos/descarga.mp4" type="descarga/mp4">
-    Video original
+    <source src="videos/descarga.mp4" type="video/mp4">
+    Tu navegador no soporta la etiqueta de video.
   </video>
 </p>
 
