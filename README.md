@@ -138,6 +138,8 @@ Se imprime la deteccion del OCR en el frame, que en conjunto con las demas etiqu
     Video etiquetado
   </video>
 </p>
+
+
 La iteración de este proceso genera el análisis de un video o también podría ser el análisis  una cámara en tiempo real.
 
 <br>[Volver al Índice](#Índice)
