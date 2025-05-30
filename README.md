@@ -120,27 +120,9 @@ Se transforma la imagen a escala de grises para facilitar la detección del OCR
 
 Se imprime la deteccion del OCR en el frame, que en conjunto con las demas etiquetas muestran el frame final.
 
-<p align="center">
-<img src="images/det_doble_v2.png"  height=300>
-</p>
+[![Ver video](videos/descarga.mp4)](videos/descarga.mp4)
 
-Se procesa con video
-
-
-<p align="center">
-  <video width="480" height="300" controls>
-    <source src="videos/descarga.mp4" type="video/mp4">
-    Tu navegador no soporta la etiqueta de video.
-  </video>
-</p>
-
-<p align="center">
-  <video width="480" height="300" controls>
-    <source src="videos/desacarga2.mp4" type="descarga/mp4">
-    Video etiquetado
-  </video>
-</p>
-
+[![Ver video](videos/descarga2.mp4)](videos/descarga2.mp4)
 
 La iteración de este proceso genera el análisis de un video o también podría ser el análisis  una cámara en tiempo real.
 
