@@ -1,5 +1,5 @@
 <p align="center">
-<img src="images/banner-2.png"  height=350>
+<img src="images/WhatsApp Image 2025-05-30 at 10.29.35 AM.jpeg"  height=350>
 </p>
 
 # Índice
