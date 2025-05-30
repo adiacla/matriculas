@@ -120,9 +120,9 @@ Se transforma la imagen a escala de grises para facilitar la detección del OCR
 
 Se imprime la deteccion del OCR en el frame, que en conjunto con las demas etiquetas muestran el frame final.
 
-[![Ver video](videos/descarga.mp4)](videos/descarga.mp4)
+[![Ver video](videos/video_resultado.mp4)](videos/video_resultado.mp4)
 
-[![Ver video](videos/descarga2.mp4)](videos/descarga2.mp4)
+
 
 La iteración de este proceso genera el análisis de un video o también podría ser el análisis  una cámara en tiempo real.
 
