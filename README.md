@@ -124,6 +124,20 @@ Se imprime la deteccion del OCR en el frame, que en conjunto con las demas etiqu
 <img src="images/det_doble_v2.png"  height=300>
 </p>
 
+
+<p align="center">
+  <video width="480" height="300" controls>
+    <source src="video/descarga.mp4" type="descarga/mp4">
+    Video original
+  </video>
+</p>
+
+<p align="center">
+  <video width="480" height="300" controls>
+    <source src="video/desacarga2.mp4" type="descarga/mp4">
+    Video etiquetado
+  </video>
+</p>
 La iteración de este proceso genera el análisis de un video o también podría ser el análisis  una cámara en tiempo real.
 
 <br>[Volver al Índice](#Índice)
