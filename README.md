@@ -124,6 +124,7 @@ Se imprime la deteccion del OCR en el frame, que en conjunto con las demas etiqu
 <img src="images/det_doble_v2.png"  height=300>
 </p>
 
+Se procesa con video
 
 <p align="center">
   <video width="480" height="300" controls>
